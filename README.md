@@ -10,3 +10,6 @@ Aula 01
 [x] Intervalos;
 [x] Operações;
 [x] Operadores lógicos;
+
+Aula 02
+- Exercícios básicos com funcionalidades de manipulação da DOM
